@@ -1,0 +1,66 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "lacroix.francois@gmail.com",
+    "longName": "EdgeCast",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/tacometer.png",
+                "name": "IMAGES_TACOMETER_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_status_codes.png",
+                "name": "IMAGES_MENU_STATUS_CODES_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_realtime_stats.png",
+                "name": "IMAGES_MENU_REALTIME_STATS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_cache_status.png",
+                "name": "IMAGES_MENU_CACHE_STATUS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/app_logo_ec.png",
+                "menuIcon": true,
+                "name": "IMAGES_APP_LOGO_EC_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "EdgeCast",
+    "uuid": "1fe3338a-a4d2-4110-abd8-9137e96c7806",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
